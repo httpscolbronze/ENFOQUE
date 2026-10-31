@@ -1,0 +1,6 @@
+{
+  "name": "ENFOQUE AI - Digital Wellness & Study Planning",
+  "description": "AI-powered digital wellness and study planner with screen-time analytics, app usage limits, intelligent scheduling, nightly reports, and WhatsApp progress sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
